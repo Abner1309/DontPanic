@@ -64,11 +64,11 @@ Average Life Expectancy: 60 Years.
 
 Average Life Expectancy: 75 Years.
 
-### General Analytical Balance:
+### 📑 General Analytical Balance:
 1. The relationship between GDP per capita and life expectancy.
 2. The relationship between GDP per capita and population ratio.
 
-### Brazilian Scenario:
+### 🇧🇷 Brazilian Scenario:
 1. Population Growth Forecast
 
 ## 🔨 Tools Used:
