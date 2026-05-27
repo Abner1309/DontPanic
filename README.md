@@ -1,5 +1,7 @@
 # Don't Panic - The Facts About Population
 
+![BBC Logo](img/bbc.webp)
+
 ## 🌐 Overview:
 This Jupyter Notebook is based on an analysis of data provided by the BBC documentary "Don't Panic - The Facts About Population".
 
